@@ -5,9 +5,10 @@ The **Food Delivery App** is a full-stack web application designed to simplify t
 It provides a user-friendly interface for customers to browse and filter food items, add items to their cart, and 
 complete the checkout process with secure payment options. An admin panel is also included to manage food items and track orders.
 
+
 ## Live Demo
 
-[Click here to view the live application]: (https://food-delivery-frontend-xipm.onrender.com)
+[Click here to view the live application](https://food-delivery-frontend-xipm.onrender.com)
 
 
 ## Features
